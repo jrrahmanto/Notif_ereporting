@@ -1,0 +1,30 @@
+D:\SourceCode\ConsoleNotifEreporting\ServiceNotifEreporting\bin\Debug\ServiceNotifEreporting.exe.config
+D:\SourceCode\ConsoleNotifEreporting\ServiceNotifEreporting\bin\Debug\ServiceNotifEreporting.exe
+D:\SourceCode\ConsoleNotifEreporting\ServiceNotifEreporting\bin\Debug\ServiceNotifEreporting.pdb
+D:\SourceCode\ConsoleNotifEreporting\ServiceNotifEreporting\bin\Debug\RestSharp.dll
+D:\SourceCode\ConsoleNotifEreporting\ServiceNotifEreporting\bin\Debug\WebDriver.dll
+D:\SourceCode\ConsoleNotifEreporting\ServiceNotifEreporting\bin\Debug\WebDriver.Support.dll
+D:\SourceCode\ConsoleNotifEreporting\ServiceNotifEreporting\bin\Debug\RestSharp.xml
+D:\SourceCode\ConsoleNotifEreporting\ServiceNotifEreporting\obj\Debug\ServiceNotifEreporting.ProjectInstaller.resources
+D:\SourceCode\ConsoleNotifEreporting\ServiceNotifEreporting\obj\Debug\ServiceNotifEreporting.csproj.GenerateResource.Cache
+D:\SourceCode\ConsoleNotifEreporting\ServiceNotifEreporting\obj\Debug\ServiceNotifEreporting.exe
+D:\SourceCode\ConsoleNotifEreporting\ServiceNotifEreporting\obj\Debug\ServiceNotifEreporting.pdb
+D:\sourcecode\ConsoleNotifEreporting\ServiceNotifEreporting\obj\Debug\ServiceNotifEreporting.csproj.AssemblyReference.cache
+D:\sourcecode\ConsoleNotifEreporting\ServiceNotifEreporting\obj\Debug\ServiceNotifEreporting.csproj.SuggestedBindingRedirects.cache
+D:\sourcecode\ConsoleNotifEreporting\ServiceNotifEreporting\obj\Debug\ServiceNotifEreporting.csproj.CoreCompileInputs.cache
+D:\sourcecode\ConsoleNotifEreporting\ServiceNotifEreporting\obj\Debug\ServiceNotifEreporting.csproj.CopyComplete
+D:\Source Code\Micoservices Code\ConsoleNotifEreporting\ServiceNotifEreporting\bin\Debug\ServiceNotifEreporting.exe.config
+D:\Source Code\Micoservices Code\ConsoleNotifEreporting\ServiceNotifEreporting\bin\Debug\ServiceNotifEreporting.exe
+D:\Source Code\Micoservices Code\ConsoleNotifEreporting\ServiceNotifEreporting\bin\Debug\ServiceNotifEreporting.pdb
+D:\Source Code\Micoservices Code\ConsoleNotifEreporting\ServiceNotifEreporting\bin\Debug\RestSharp.dll
+D:\Source Code\Micoservices Code\ConsoleNotifEreporting\ServiceNotifEreporting\bin\Debug\WebDriver.dll
+D:\Source Code\Micoservices Code\ConsoleNotifEreporting\ServiceNotifEreporting\bin\Debug\WebDriver.Support.dll
+D:\Source Code\Micoservices Code\ConsoleNotifEreporting\ServiceNotifEreporting\bin\Debug\RestSharp.xml
+D:\Source Code\Micoservices Code\ConsoleNotifEreporting\ServiceNotifEreporting\obj\Debug\ServiceNotifEreporting.csproj.AssemblyReference.cache
+D:\Source Code\Micoservices Code\ConsoleNotifEreporting\ServiceNotifEreporting\obj\Debug\ServiceNotifEreporting.csproj.SuggestedBindingRedirects.cache
+D:\Source Code\Micoservices Code\ConsoleNotifEreporting\ServiceNotifEreporting\obj\Debug\ServiceNotifEreporting.ProjectInstaller.resources
+D:\Source Code\Micoservices Code\ConsoleNotifEreporting\ServiceNotifEreporting\obj\Debug\ServiceNotifEreporting.csproj.GenerateResource.cache
+D:\Source Code\Micoservices Code\ConsoleNotifEreporting\ServiceNotifEreporting\obj\Debug\ServiceNotifEreporting.csproj.CoreCompileInputs.cache
+D:\Source Code\Micoservices Code\ConsoleNotifEreporting\ServiceNotifEreporting\obj\Debug\ServiceNotifEreporting.csproj.CopyComplete
+D:\Source Code\Micoservices Code\ConsoleNotifEreporting\ServiceNotifEreporting\obj\Debug\ServiceNotifEreporting.exe
+D:\Source Code\Micoservices Code\ConsoleNotifEreporting\ServiceNotifEreporting\obj\Debug\ServiceNotifEreporting.pdb

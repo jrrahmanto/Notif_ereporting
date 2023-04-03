@@ -293,7 +293,7 @@ namespace ServiceNotifEreporting
         }
         private static void SendMessage(string chatId, string body)
         {
-            var client = new RestClient("https://api.chat-api.com/instance127354/sendMessage?token=jkdjtwjkwq2gfkac");
+            var client = new RestClient("https://api.1msg.io/127354/sendMessage?token=jkdjtwjkwq2gfkac");
             client.Timeout = -1;
             var requestWa = new RestRequest(Method.POST);
             requestWa.AddHeader("Content-Type", "application/x-www-form-urlencoded");
